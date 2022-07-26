@@ -3,3 +3,8 @@
 :root {
     --bs-body-font-family: 'Poppins', sans-serif;
 }
+
+.hero-slider-title {
+    font-size: 2.5rem;
+    font-weight: 500;
+}
