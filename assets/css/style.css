@@ -36,13 +36,14 @@
 }
 
 .package-active {
-    padding: 60px 0 30px 15px;
+    padding: 60px 0 30px 0;
     border-radius: 20px;
     color: white;
     background-image: url("../images/icons/watermark.svg");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center right;
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
 }
 
 .package-active .available-items-icon {
@@ -58,4 +59,8 @@
     top: 0;
     right: 10%;
     margin-top: -10px
+}
+
+.choose-plan-btn  {
+    background-color: rgba(244, 150, 209, 0.1);
 }
