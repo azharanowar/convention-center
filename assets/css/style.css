@@ -64,3 +64,16 @@
 .choose-plan-btn  {
     background-color: rgba(244, 150, 209, 0.1);
 }
+
+
+
+/* Happy Clients Says Section Styles... */
+
+.happy-clients-heading {
+    color: #0A0826;
+    font-weight: 600;
+}
+
+.clients-reviews {
+    gap: 2rem
+}
