@@ -77,3 +77,12 @@
 .clients-reviews {
     gap: 2rem
 }
+
+
+
+/* FAQ Section Styles... */
+
+.faq-heading {
+    color: #0A0826;
+    font-weight: 600;
+}
