@@ -23,7 +23,6 @@
 
 .pricing-packages-heading {
     color: #0A0826;
-    font-weight: 600;
 }
 
 .available-items-icon {
@@ -74,10 +73,6 @@
     font-weight: 600;
 }
 
-.clients-reviews {
-    gap: 2rem
-}
-
 
 
 /* FAQ Section Styles... */
@@ -91,6 +86,6 @@
 
 /* Footer Section Styles... */
 
-.footer-section {
+.footer-content {
     height: 280px;
 }
